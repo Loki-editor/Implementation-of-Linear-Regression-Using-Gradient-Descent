@@ -81,6 +81,10 @@ print(f"Predicted value: {pre}")
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 ### Value of X1_Scaled
 ![310188895-c5566457-572a-4d4b-adec-af4145ab8d83](https://github.com/gauthamkrishna7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/141175025/6a38641e-c102-473b-9bf2-a6afeaabcdc6)
