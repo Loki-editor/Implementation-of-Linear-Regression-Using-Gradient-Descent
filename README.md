@@ -62,8 +62,25 @@ print(f"Predicted value: {pre}")
 ### Data Information
 ![310188551-a7888ba2-5abe-4057-9560-07ba652a980c](https://github.com/gauthamkrishna7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/141175025/4015031e-f796-4985-b91e-2bcad67262af)
 
+<br>
+<br>
+<br>
+
 ### Value of X
 ![310188658-5fde3790-29dc-4ab8-b3ab-a2f431fe3a00](https://github.com/gauthamkrishna7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/141175025/ab2f2037-d0d3-4828-ad78-8ca22db3770d)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Value of X1_Scaled
 ![310188895-c5566457-572a-4d4b-adec-af4145ab8d83](https://github.com/gauthamkrishna7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/141175025/6a38641e-c102-473b-9bf2-a6afeaabcdc6)
