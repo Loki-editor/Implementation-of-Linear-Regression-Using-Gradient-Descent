@@ -56,6 +56,8 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 ```
+Developed by : LOKESH S
+Register no : 212224240079
 
 
 ## Output:
